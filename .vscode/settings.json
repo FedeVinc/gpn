@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.automationProfile.linux": {
+        "path": "/homes/fvincenzi/gpn/bash.sh"
+  },
+  "python.languageServer": "Pylance",
+  "python.defaultInterpreterPath": "/homes/fvincenzi/firstenv/bin/python"
+}
