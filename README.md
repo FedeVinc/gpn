@@ -1,3 +1,8 @@
+# Bioinformatics Project 
+For the current project I take advantage of the work mentioned below. 
+I changed some code and added the files for running the scripts over the Aimagelab Server.
+
+
 # GPN (Genomic Pre-trained Network)
 [![hgt_genome_392c4_a47ce0](https://user-images.githubusercontent.com/5766420/228109137-85d48559-d1ae-4c9a-94b5-c79fc06ad45d.png)](  https://genome.ucsc.edu/s/gbenegas/gpn-arabidopsis)
 
